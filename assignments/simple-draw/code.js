@@ -52,7 +52,7 @@ drawLine(0, 0, width, height, 'green') */
 
 drawFilledCircle(width/100, height/100, 100, 'yellow');
 
-drawFilledRect(50, 50, 100, 40, 'green');
+drawFilledRect(150, 150, 100, 40, 'green');
 
 
 
