@@ -50,7 +50,7 @@ drawFilledRect(5, height - 20, 45, 15, 'purple');
 
 drawLine(0, 0, width, height, 'green') */
 
-drawFilledCircle(width/2, height/2, 10, 'blue');
+drawFilledCircle(width/100, height/2, 100, 'blue');
 
 
 
